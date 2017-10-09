@@ -14,6 +14,8 @@ public class Main extends AppCompatActivity {
 private void test(){
 
     int t = 1+2;
+    int tt = 4+5;
+    int f  = t + tt;
 }
 
 
